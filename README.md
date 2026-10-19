@@ -1,6 +1,6 @@
 # 🧮 Calculadora CLI em Python
 
-Calculadora simples feita em Python que roda no terminal e salva o histórico das contas.
+Calculadora feita em Python que roda no terminal e salva o histórico das contas.
 
 ---
 
